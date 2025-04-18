@@ -8,4 +8,4 @@ for improvements in travel choices. In this project, we present the design,
 implementation, and evaluation of the Eco Drive application, demonstrating its efficacy
 in reducing carbon footprints and fostering sustainable travel practices. 
 
-Special thanks to team mates Jayanth V, Swaroop R S, Lohith M C who helped developing the project.
+Special thanks to team mates Jayanth V, Nithin, Lohith M C who helped developing the project.
